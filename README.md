@@ -1,1 +1,3 @@
-# trabajo-grupal-gitTrabajo práctico realizado por el Grupo [N.°]
+# trabajo-grupal-git
+
+Trabajo práctico realizado por el Grupo 5
